@@ -17,7 +17,7 @@ export function TaskList({
   search,
   filter,
 }: taskListProps) {
-  const [order, setOrder] = useState("Asc");
+  const [order] = useState("Asc");
 
   return (
     <div className="w-full space-y-3">
