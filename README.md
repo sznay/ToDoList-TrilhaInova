@@ -29,7 +29,7 @@ npm install
 3. *Inicie o servidor de desenvolvimento*
 
 bash
-npm run start
+npm run dev
 
 
 O aplicativo estará disponível em http://localhost: 5177.
